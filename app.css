@@ -1,3 +1,13 @@
+body.white {
+  background: white;
+  color: black;
+}
+
+body.black {
+  background: black;
+  color: white;
+}
+
 header {
   border-bottom: 1px solid gray;
   padding: 20px;
@@ -15,4 +25,8 @@ nav ol {
 article {
   float: left;
   padding: 20px;
+}
+
+#control{
+  float: right;
 }
